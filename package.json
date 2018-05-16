@@ -4,6 +4,10 @@
   "description": "simple cache get/set object for a node app and browser",
   "main": "dist/main.js",
   "types": "./types/SimpleCache.d.ts",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/aanation/simple-cache.git"
+  },
   "scripts": {
     "test": "mocha ./dist/SimpleCache.spec.js"
   },
