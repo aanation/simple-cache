@@ -1,8 +1,8 @@
 {
   "name": "simple-cache-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple cache get/set object for a node app and browser",
-  "main": "dist/main.js",
+  "main": "dist/SimpleCache.js",
   "types": "./types/SimpleCache.d.ts",
   "repository" : { 
     "type" : "git", 
